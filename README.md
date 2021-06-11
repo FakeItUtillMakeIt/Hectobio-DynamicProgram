@@ -1,0 +1,6 @@
+# Hectobio-DynamicProgram
+x1K1x2K2.json文件为两条序列的level值
+flickerfilter.py文件为滤除孤立功能
+calc_sequenceCV.py文件计算两条序列之间的scorematrix
+dynamic_wrap.py为动态规划寻找最优路径功能
+levelalignmentCV1.py为主函数
